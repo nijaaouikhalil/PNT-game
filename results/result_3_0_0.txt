@@ -1,0 +1,9 @@
+---Given---
+Total number of tokens: 3
+Total number of taken tokens: 0
+Values of taken tokens: []
+Last game move: None
+Max depth: 0
+---Results---
+Next computed move: 1
+Static board heuristic evaluation: -1.0
